@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-app/static/css/main.f7f69392.css",
+    "main.js": "/react-portfolio-app/static/js/main.6d218611.js",
+    "static/media/Avtr2.jpg": "/react-portfolio-app/static/media/Avtr2.946916c19706e98f0f72.jpg",
+    "static/media/Avtr1.jpg": "/react-portfolio-app/static/media/Avtr1.8dae450e4b21759e05af.jpg",
+    "static/media/Avtr4.jpg": "/react-portfolio-app/static/media/Avtr4.2a54718b3d97fb0c60a0.jpg",
+    "static/media/B1.png": "/react-portfolio-app/static/media/B1.4b2db0ca70221bf1b188.png",
+    "static/media/R1.png": "/react-portfolio-app/static/media/R1.7ef74a08c420271b951f.png",
+    "static/media/M1.png": "/react-portfolio-app/static/media/M1.b985045f4f04986071ee.png",
+    "static/media/Avtr3.jpg": "/react-portfolio-app/static/media/Avtr3.bb1e081a7cc95c7fb1b5.jpg",
+    "static/media/M5.png": "/react-portfolio-app/static/media/M5.0bd674e091331ebba465.png",
+    "static/media/MP1.png": "/react-portfolio-app/static/media/MP1.76a19c1db73935f40b6e.png",
+    "static/media/M8.png": "/react-portfolio-app/static/media/M8.b5b5f3c92dc2eb47c8ee.png",
+    "static/media/CV.pdf": "/react-portfolio-app/static/media/CV.f598f54c883466865cc0.pdf",
+    "static/media/ME.png": "/react-portfolio-app/static/media/ME.798de8cdc1973d3ad8d5.png",
+    "static/media/azeem.jpg": "/react-portfolio-app/static/media/azeem.830a44e47797119ea901.jpg",
+    "static/media/logo1.png": "/react-portfolio-app/static/media/logo1.0cc150fab69cb3de1126.png",
+    "index.html": "/react-portfolio-app/index.html",
+    "main.f7f69392.css.map": "/react-portfolio-app/static/css/main.f7f69392.css.map",
+    "main.6d218611.js.map": "/react-portfolio-app/static/js/main.6d218611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7f69392.css",
+    "static/js/main.6d218611.js"
+  ]
+}
