@@ -1,5 +1,5 @@
 import React from 'react';
-import logo1 from "../../assets/logo1.png";
+import LogoN from "../../assets/LogoN.png";
 import './footer.css';
 import {FaFacebookF} from 'react-icons/fa';
 import {FiInstagram} from 'react-icons/fi';
@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <footer>
       <a href='#' className='footer__logo'>
-        <img src={logo1} alt='logo' className='image-logo'/>
+        <img src={LogoN} alt='logo' className='image-logo'/>
         </a>
 
       <ul className='permalinks'>

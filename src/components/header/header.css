@@ -82,4 +82,7 @@ header {
     .scroll__down {
         display: none;
     }
+    .me {
+        height: 30rem;
+    }
 }

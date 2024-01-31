@@ -19,7 +19,7 @@ footer a {
 
 .image-logo {
     width: 28rem;
-    height: 15rem;
+    height: 20rem;
   }
 
 .permalinks {
@@ -66,5 +66,8 @@ footer a {
 
     .footer__socials {
         margin-bottom: 2.6rem;
+    }
+    .image-logo {
+       margin-left: -2rem;
     }
 }
